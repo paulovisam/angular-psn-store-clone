@@ -2,8 +2,6 @@
 	position: relative;
 	border:3px solid #3E4357;
 	border-radius: 10px;
-	width: 350px;
-	height: 500px;
 
 	display: flex;
 	overflow: hidden;
